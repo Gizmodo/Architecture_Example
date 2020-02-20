@@ -38,6 +38,5 @@ public class Note {
         return priority;
     }
 
-    @ColumnInfo(name = "priority_column")
     private int priority;
 }
